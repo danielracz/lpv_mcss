@@ -1,6 +1,6 @@
 # lpv_mcss
 
-This repository contains the Matlab code of the numerical examples presented in the paper
+This repository contains the MATLAB code of the numerical examples presented in the paper
 
 **A finite-sample generalization bound for stable LPV systems**<br/>
 Daniel Racz, Martin Gonzalez, Mihaly Petreczky, Andras Benczur, Balint Daroczy,
